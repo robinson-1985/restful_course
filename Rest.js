@@ -1,4 +1,4 @@
-Rest é um acrônimo para Representational
+/*Rest é um acrônimo para Representational
 State Transfer (Transferência de Estado 
 Representativo);
 
@@ -12,4 +12,4 @@ usando o protocolo HTTP;
 -O REST, delimita algumas obrigações nessas 
 transferências de dados;
 
--Resources é então, uma entidade, um objeto.
+-Resources é então, uma entidade, um objeto.*/

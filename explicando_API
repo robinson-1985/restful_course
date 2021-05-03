@@ -1,4 +1,4 @@
-Cliente (Client)
+/*Cliente (Client)
 Garçom (pedidos, leva seus pedidos para cozinha)(API)
 Cozinha (Server)
 
@@ -15,4 +15,4 @@ entre diferentes serviços;
 
 -Meio de campo entre as tecnologias;
 
--Intermediadores para trocas de informações.
+-Intermediadores para trocas de informações.*/

@@ -1,4 +1,4 @@
-Existem 6 necessidades (contraints) para ser RESTFUL:
+/*Existem 6 necessidades (contraints) para ser RESTFUL:
 
 1° _client-server_ : Separação do cliente e do 
 armazenamento de dados (servidor),dessa forma, 
@@ -71,4 +71,4 @@ _NÃo IMPORTA! _use apenas um padrão;
     -400: Bad Request
     -404: Not found!
 -5xx: Server error
-    -500: Internal Server Error
+    -500: Internal Server Error*/
